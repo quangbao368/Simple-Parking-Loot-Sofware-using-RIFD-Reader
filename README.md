@@ -5,7 +5,7 @@
 * Using for Education Purpose only.
 * Please Read file REAdME.txt first.
 * Language: Vietnamese.
-* Indle: IntelliJ IDEA
+* Ide: IntelliJ IDEA
 * Contact Infor:
 
 * Linkedin: www.linkedin.com/in/bao-phan-quang-b7570521a/
