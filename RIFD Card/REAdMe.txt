@@ -1,3 +1,4 @@
+_ Change file name Account.bat to Account.txt to get username and password.
 _ This project is Parking Loot Sofware using RIFD reader.
 _ You need to buy a RIFD reader 125khz and its cards.
 	product: https://www.amazon.com/Reader-125KHz-Proximity-Keyboard-Android/dp/B07TMNZPXK
