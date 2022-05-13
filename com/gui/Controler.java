@@ -12,7 +12,7 @@ import javax.sound.sampled.UnsupportedAudioFileException;
 import java.io.*;
 import java.util.Scanner;
 /**
- * @author Dearest
+ * @author HoangDeShotgun
  */
 
 public class Controler {
@@ -175,22 +175,5 @@ public class Controler {
         {
         }
     }
-
-//    public void runFileMp3(String pathFile){
-//        try {
-//            FileInputStream file = new FileInputStream(pathFile); //initialize the FileInputStream
-//            Player player; //initialize the player
-//            player = new Player(file);
-//            player.play(); //start the player
-//
-//        } catch (JavaLayerException e) {
-//            e.printStackTrace();
-//        } catch (FileNotFoundException e) {
-//            e.printStackTrace();
-//        }
-
-//    }
-
-
 
 }
