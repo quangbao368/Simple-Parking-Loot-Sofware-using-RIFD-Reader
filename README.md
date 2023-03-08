@@ -9,7 +9,10 @@
 * Contact Infor:
 
 * Linkedin: www.linkedin.com/in/bao-phan-quang-b7570521a/
+            www.linkedin.com/in/dearest/
 
-* Git: github.com/quangbao368
-* @author HoangDeShotgun
+* Github: github.com/quangbao368
+          github.com/lightoverplay
+          
+* @author HoangDeShotgun && dearest
  
